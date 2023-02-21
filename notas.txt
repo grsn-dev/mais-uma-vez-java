@@ -1,1 +1,7 @@
 https://www.youtube.com/watch?v=_hZf1teRFNg - Git Hub com Nélio
+
+git init
+git add.
+git commit -m "Mensagem"
+git remote add origin git@github.com:grsn-dev/mais-uma-vez-java.git
+git push -u origin main
